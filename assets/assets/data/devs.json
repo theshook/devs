@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Joshua",
+    "roles": ["Software Engineer", "Flutter and Dart GDE"],
+    "about": "Lorem ipsum"
+  },
+  {
+    "name": "Joennie Sindo",
+    "roles": ["Software Engineer", "Flutter Developer"],
+    "about": "Flutter developer since 2018"
+  },
+  {
+    "name": "Elon Musk",
+    "roles": ["CEO", "Chairman"],
+    "about": "Lorem ipsum"
+  },
+  {
+    "name":"Vince Ramces Oliveros",
+    "roles":["Flutter Developer"],
+    "about":"Me, Myself, and I"
+  }
+]
